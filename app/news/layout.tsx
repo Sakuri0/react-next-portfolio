@@ -14,7 +14,7 @@ export const revalidate = 60;
 export default function NewsLayout({ children }: Props) {
   return (
     <>
-      <Hero title="News" sub="ニュース" />
+      <Hero title="Products" sub="製作品一覧" />
       <Sheet>{children}</Sheet>
     </>
   );
