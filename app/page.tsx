@@ -16,9 +16,9 @@ export default async function Home() {
     <>
       <section className={styles.top}>
         <div>
-          <h1 className={styles.title}>テクノロジーの力で世界を変える</h1>
+          <h1 className={styles.title}>Sakuri0</h1>
           <p className={styles.description}>
-            私たちは市場をリードしているグローバルテックカンパニーです。
+            京都TECHでITに関する勉強をしている学生です。いつも課題におわれています。
           </p>
         </div>
         <Image
